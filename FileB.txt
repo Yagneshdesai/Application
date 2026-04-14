@@ -1,2 +1,2 @@
 this is FileB
-this is a new line
+let's make some change 
